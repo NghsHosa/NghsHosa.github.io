@@ -1,0 +1,237 @@
+
+
+body {
+    background-color: floralwhite;
+}
+
+h1 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 150px; /* Adjust the distance from the top */
+    margin-left: 500px; /* Adjust the distance from the left */
+    font-size: 80px; /* Set the desired font size */
+    font-family: "Arial Black", sans-serif; /* Change to your desired font family */
+}
+
+h2 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 250px; /* Adjust the distance from the top */
+    margin-left: 850px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+h3 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 750px; /* Adjust the distance from the top */
+    margin-left: 160px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+h4 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 1150px; /* Adjust the distance from the top */
+    margin-left: 900px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+h5 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 1550px; /* Adjust the distance from the top */
+    margin-left: 200px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+h6 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 1950px; /* Adjust the distance from the top */
+    margin-left: 800px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+.h7 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 2350px; /* Adjust the distance from the top */
+    margin-left: 200px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+.h8 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 2750px; /* Adjust the distance from the top */
+    margin-left: 900px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+.h9 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 3250px; /* Adjust the distance from the top */
+    margin-left: 200px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+.h10 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    top: 3550px; /* Adjust the distance from the top */
+    margin-left: 900px; /* Adjust the distance from the left */
+    font-size: 40px; /* Set the desired font size */
+}
+
+.Rhonda {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Nora {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.PCOM {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Linda {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Summerow {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Heather {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Mellick {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Whiteman {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+
+}
+
+.Nidhi {
+    border: 3px solid #b1b1b1; /* Set the border to a solid line with a 2px width and a dark gray color (#333) */
+    border-radius: 5px; /* Optional: Add border-radius to create rounded corners */
+    margin-bottom: 10px;
+}
+
+.p1 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: -2100px; /* Adjust the distance from the top */
+    left: 800px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p2 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 300px; /* Adjust the distance from the top */
+    left: 100px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p3 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 200px; /* Adjust the distance from the top */
+    left: 800px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p4 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 150px; /* Adjust the distance from the top */
+    left: 130px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p5 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 150px; /* Adjust the distance from the top */
+    left: 800px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p6 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 300px; /* Adjust the distance from the top */
+    left: 115px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p7 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 0px; /* Adjust the distance from the top */
+    left: 845px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p8 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 200px; /* Adjust the distance from the top */
+    left: 160px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.p9 {
+    color : rgb(0, 0, 0);
+    position: relative; /* Set the position to relative or other values as needed */
+    margin-top: 50px; /* Adjust the distance from the top */
+    left: 800px; /* Adjust the distance from the left */
+    margin-right: 1000px;
+    text-align: center;
+    font-size: 30px; /* Set the desired font size */
+}
+
+.smol {
+    font-size: 24px;
+    text-align: center;
+    display: inline-block; /* Make the span behave as an inline block to contain the indented content */
+    text-indent: 45px; /* Set the indent to 45 pixels */
+}
